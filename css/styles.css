@@ -55,31 +55,3 @@ a:hover {
 	color:deeppink;
 
 }
-@media (max-width: 576px){
-    
-    #na{
-     width:-130px;
-    height:200px;
-       
-    top: -10px;
-    left:-40px;
-        margin-top: 10px;
-        line-height: inherit;
-  -ms-transform:rotate(360deg); /* IE 9 */
-  -moz-transform:rotate(360deg); /* Firefox */
-  -webkit-transform:rotate(360deg); /* Safari and Chrome */
-  -o-transform:rotate(360deg); /* Opera */
-}
-    #ken{
-    
-    color: black;
-    width:130px;
-    height:300px;
-    bottom: -350px;
-  -ms-transform:rotate(360deg); /* IE 9 */
-  -moz-transform:rotate(360deg); /* Firefox */
-  -webkit-transform:rotate(360deg); /* Safari and Chrome */
-  -o-transform:rotate(2360deg); /* Opera */
-   
-}
-}
