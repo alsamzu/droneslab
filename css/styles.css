@@ -3,5 +3,12 @@
 }
 li{
     padding-left: 80px;
+    
+}
+.col{
+    color: yellow;
+}
+.col:hover{
+    color: red;
 }
 
