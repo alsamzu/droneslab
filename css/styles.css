@@ -14,4 +14,9 @@ li{
 #com{
     color: black;
 }
+#bod{
+    border-style: solid;
+    border-color: red;
+   
+}
 
