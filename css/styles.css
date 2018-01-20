@@ -2,14 +2,14 @@
     display: flex;
 }
 li{
-    padding-left: 80px;
+    padding-left: 50px;
     
 }
 .col{
-    color: yellow;
+    color: #ffb300;
 }
 .col:hover{
-    color: red;
+    color: #ffea00;
 }
 #com{
     color: black;
