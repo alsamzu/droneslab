@@ -1,5 +1,5 @@
-.container{
-    display: flex;
+body{
+    background-color: #e0e0e0;
 }
 li{
     padding-left: 50px;
