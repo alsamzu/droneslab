@@ -1,15 +1,16 @@
 body{
-    background-color: #e0e0e0;
+    background-color: #f5f5f5;
 }
+
 li{
     padding-left: 50px;
     
 }
 .col{
-    color: #ffb300;
+    color: #000;
 }
 .col:hover{
-    color: #ffea00;
+    color: red;
 }
 #com{
     color: black;
@@ -23,9 +24,10 @@ li{
     background-color: #424242;
     
 }
+
 .fa{
-    color: white;
-    padding: 2px;
+    color: black;
+    padding: 1.5px;
 }
 
 
