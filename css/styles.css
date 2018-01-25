@@ -13,6 +13,14 @@ li{
 .col:hover{
     color: red;
 }
+#try{
+    filter: grayscale(100%);
+    transition: .5s ease-in-out;
+    
+}
+#try:hover{
+    filter: grayscale(0%);
+}
 #com{
     color: black;
 }
