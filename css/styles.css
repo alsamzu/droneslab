@@ -21,6 +21,7 @@ li{
 #try:hover{
     filter: grayscale(0%);
 }
+
 #com{
     color: black;
 }
